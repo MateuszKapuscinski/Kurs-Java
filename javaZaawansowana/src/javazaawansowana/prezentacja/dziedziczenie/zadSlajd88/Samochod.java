@@ -38,7 +38,7 @@ public class Samochod {
                 Objects.equals(marka, samochod.marka);
     }
 
-    public Samochod(String kolor, String marka, int rocznik,boolean swiatla, double predkosc) {
+    public Samochod(String kolor, String marka, int rocznik, boolean swiatla, double predkosc) {
         this.kolor = kolor;
         this.marka = marka;
         this.rocznik = rocznik;
