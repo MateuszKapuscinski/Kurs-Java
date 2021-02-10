@@ -1,4 +1,4 @@
-package javazaawansowana.prezentacja.dziedziczenie.zadOOP1;
+package javazaawansowana.prezentacja.dziedziczenie.zadOOP.Zad1;
 
 public class Point2D {
     // podpunkt 1
@@ -41,7 +41,10 @@ public class Point2D {
 
     // podpunkt 7
 
-    
+    public void setXY(float x, float y) {
+        this.x = x;
+        this.y = y;
+    }
 
     // podpunkt 8
     @Override
