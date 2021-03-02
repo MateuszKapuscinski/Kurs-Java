@@ -1,7 +1,7 @@
 package pl.sda.zdjavapol75.zaawansowana.wzorceProjektowe.singleton.lazy;
 
 public class Counter {
- /*   private static Counter INSTANCE;
+    private static Counter INSTANCE;
 
     private int licznik = 0;
 
@@ -11,11 +11,12 @@ public class Counter {
     public static Counter getINSTANCE() {
         if (INSTANCE == null) {
             synchronized (Counter.class) {
-                if (INSTANCE = new Counter() {
-
+                if (INSTANCE == null) {
+                    INSTANCE = new Counter();
                 }
             }
         }
+        return INSTANCE;
     }
 
     public void zwieksz() {
@@ -24,5 +25,5 @@ public class Counter {
 
     public int getLicznik() {
         return licznik;
-    }*/
+    }
 }

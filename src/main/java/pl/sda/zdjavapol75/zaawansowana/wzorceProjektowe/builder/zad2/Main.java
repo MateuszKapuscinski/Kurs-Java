@@ -1,4 +1,4 @@
-package pl.sda.zdjavapol75.zaawansowana.wzorceProjektowe.singleton.builder.zad2;
+package pl.sda.zdjavapol75.zaawansowana.wzorceProjektowe.builder.zad2;
 
 import java.util.ArrayList;
 import java.util.List;

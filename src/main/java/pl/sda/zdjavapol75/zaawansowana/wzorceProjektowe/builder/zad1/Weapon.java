@@ -1,4 +1,4 @@
-package pl.sda.zdjavapol75.zaawansowana.wzorceProjektowe.singleton.builder.zad1;
+package pl.sda.zdjavapol75.zaawansowana.wzorceProjektowe.builder.zad1;
 
 public class Weapon {
     private String type;

@@ -1,6 +1,4 @@
-package pl.sda.zdjavapol75.zaawansowana.wzorceProjektowe.singleton.builder.zad2;
-
-import pl.sda.zdjavapol75.zaawansowana.wzorceProjektowe.singleton.builder.zad1.Weapon;
+package pl.sda.zdjavapol75.zaawansowana.wzorceProjektowe.builder.zad2;
 
 import java.util.List;
 
