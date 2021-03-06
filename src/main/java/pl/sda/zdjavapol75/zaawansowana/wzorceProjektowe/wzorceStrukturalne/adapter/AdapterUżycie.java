@@ -16,12 +16,12 @@ public class AdapterUżycie {
         System.out.println(pdfEditor2.getText());
         WordEditor wordEditor2 =  new WordEditor(new PdfAdapter(pdfEditor2).getText());
         System.out.println(wordEditor2.getText());
-        /*
+
         listaEdytorow.add(new WordAdapter(wordEditor));
         listaEdytorow.add(new PdfAdapter(pdfEditor));
         listaEdytorow.add(new ExcelAdapter(excelEditor));
         wyswietlRózneTeksty();
-        */
+
     }
     private static void wyswietlRózneTeksty(){
         for(TextEditor editor : listaEdytorow){
