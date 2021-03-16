@@ -1,4 +1,4 @@
-package pl.sda.zdjavapol75.zaawansowana.programowanie.zadAutostrada;
+package pl.sda.zdjavapol75.zaawansowana.programowanieZadania.zadAutostrada;
 
 
 import java.util.Scanner;

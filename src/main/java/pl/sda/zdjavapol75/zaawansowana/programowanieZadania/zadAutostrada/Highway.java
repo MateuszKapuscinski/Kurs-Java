@@ -1,8 +1,7 @@
-package pl.sda.zdjavapol75.zaawansowana.programowanie.zadAutostrada;
+package pl.sda.zdjavapol75.zaawansowana.programowanieZadania.zadAutostrada;
 
 
 import java.time.Duration;
-import java.time.LocalDate;
 import java.time.LocalDateTime;
 import java.util.HashMap;
 import java.util.Map;
